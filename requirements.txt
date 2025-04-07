@@ -1,0 +1,4 @@
+pip install python-telegram-bot
+pip install flask
+pip install Flask-SqlAlchemy
+pip install requests
